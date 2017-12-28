@@ -1,0 +1,1 @@
+# subsidiary-config-server-git
